@@ -10,4 +10,4 @@ Command to run container:
 
 
 You need to have file text.txt in star_vol folder.
-When you run container theis file will preprocess.
+When you run container this file will preprocess.
